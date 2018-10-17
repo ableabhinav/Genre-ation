@@ -16,3 +16,8 @@
 ## Links to helpful queries from various websites (stack/quora)
 - [[Stack]Plot spectrogram and save to path](https://stackoverflow.com/questions/46031397/using-librosa-to-plot-a-mel-spectrogram)
 - [[Stack]Convert to log-scaled mel spectrogram](https://stackoverflow.com/questions/48692687/how-to-convert-a-mel-spectrogram-to-log-scaled-mel-spectrogram)
+
+## Saving multiple spectrogram of audios from one folder (StackOverflow)
+- [creating a batch spectrogram using ffmpeg](https://stackoverflow.com/questions/48412896/creating-batch-spectrograms-using-ffmpeg)
+- [how to create the spectrogram of many audio files efficiently with sox](https://unix.stackexchange.com/questions/200168/how-to-create-the-spectrogram-of-many-audio-files-efficiently-with-sox)
+-[SOX documentiation](http://sox.sourceforge.net/sox.html )
