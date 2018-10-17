@@ -14,4 +14,5 @@
 - [Captian-Freak song classifier](https://github.com/CaptainFreak/Neural-SongClassifier)
 
 ## Links to helpful queries from various websites (stack/quora)
--
+- [Stack/Plot spectrogram and save to path](https://stackoverflow.com/questions/46031397/using-librosa-to-plot-a-mel-spectrogram)
+- [Convert to log-scaled mel spectrogram](https://stackoverflow.com/questions/48692687/how-to-convert-a-mel-spectrogram-to-log-scaled-mel-spectrogram)
