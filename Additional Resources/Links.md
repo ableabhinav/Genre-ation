@@ -9,7 +9,7 @@
 - [deepsound.io article on genre recognition](http://deepsound.io/music_genre_recognition.html)
 
 ## Other repos having similar projects
-- [drscotthawley/audio-classifier-keras-cnn]https://github.com/drscotthawley/audio-classifier-keras-cnn
+- [drscotthawley/audio-classifier-keras-cnn](https://github.com/drscotthawley/audio-classifier-keras-cnn)
 - [deepsound repo](https://github.com/deepsound-project/genre-recognition)
 - [Captian-Freak song classifier](https://github.com/CaptainFreak/Neural-SongClassifier)
 
