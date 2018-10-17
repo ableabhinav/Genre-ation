@@ -20,4 +20,4 @@
 ## Saving multiple spectrogram of audios from one folder (StackOverflow)
 - [creating a batch spectrogram using ffmpeg](https://stackoverflow.com/questions/48412896/creating-batch-spectrograms-using-ffmpeg)
 - [how to create the spectrogram of many audio files efficiently with sox](https://unix.stackexchange.com/questions/200168/how-to-create-the-spectrogram-of-many-audio-files-efficiently-with-sox)
--[SOX documentiation](http://sox.sourceforge.net/sox.html )
+- [SOX documentiation](http://sox.sourceforge.net/sox.html )
