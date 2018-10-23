@@ -21,3 +21,6 @@
 - [creating a batch spectrogram using ffmpeg](https://stackoverflow.com/questions/48412896/creating-batch-spectrograms-using-ffmpeg)
 - [how to create the spectrogram of many audio files efficiently with sox](https://unix.stackexchange.com/questions/200168/how-to-create-the-spectrogram-of-many-audio-files-efficiently-with-sox)
 - [SOX documentiation](http://sox.sourceforge.net/sox.html )
+
+
+(tracks)[https://drive.google.com/open?id=1p0xmWIcQQuRFSb1TbQFVkDtK_hE0vKax]
